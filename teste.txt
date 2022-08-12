@@ -1,0 +1,2 @@
+Exemplo de inscrição de arquivo de texto
+Linux
